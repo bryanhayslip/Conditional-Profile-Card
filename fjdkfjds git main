@@ -1,0 +1,263 @@
+[33mcommit d4576918512a539e23bb1d91a4481f7840dbb691[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: bryanhayslip <bryan.hayslip@gmail.com>
+Date:   Tue Apr 5 23:55:01 2022 +0000
+
+    completed project
+
+[33mcommit 7b5dac2b6fa54578dd4201c74c38e5eb16f1d713[m
+Merge: 09ad609 fdc599e
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Thu Mar 31 09:14:29 2022 -0700
+
+    Merge pull request #42 from kant/patch-1
+    
+    Minor fixes (paragraphs 05, 09, 71, 94)
+
+[33mcommit fdc599ed6b64b7e3cc0e77fa8116ab5cf4d0a708[m
+Merge: f0aba6d 09ad609
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Thu Mar 31 09:14:17 2022 -0700
+
+    Merge branch 'master' into patch-1
+
+[33mcommit 09ad609bee57d9ce93c9bb1bfe5248f9da55d7d0[m
+Merge: 817c6bd 6dfbe05
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Thu Mar 31 09:13:26 2022 -0700
+
+    Merge pull request #46 from samu1243/master
+    
+    "rrepresentar a representar"
+
+[33mcommit 6dfbe05cb713b33ffa307a20cfec6ef60bf1774d[m
+Author: samu1243 <101596566+samu1243@users.noreply.github.com>
+Date:   Wed Mar 30 20:24:10 2022 -0400
+
+    "rrepresentar a representar"
+
+[33mcommit f0aba6d9f59ddf74ac50a67a11f47173d9a7da97[m
+Author: Darío Hereñú <magallania@gmail.com>
+Date:   Sat Nov 20 15:09:06 2021 -0300
+
+    Minor fixes (paragraphs 05, 09, 71, 94)
+
+[33mcommit 817c6bdad20ffac0c2cd142fe7a02251e0a246e4[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Oct 25 17:59:29 2021 +0000
+
+    fixed bundle
+
+[33mcommit 36de9ac8ddfd9398bca8eb798bdad809d80f2855[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Oct 25 17:45:47 2021 +0000
+
+    migrated to node 16 and updated boilerplate
+
+[33mcommit caa73505c5d57728e6bae64a517ff32524d5778d[m
+Merge: f9e0f25 1109a15
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Tue Sep 7 10:28:20 2021 -0300
+
+    Merge pull request #37 from joancastillo/patch-1
+    
+    social media icon
+
+[33mcommit 1109a15b4f6be2dc38dac565f406c305981e7656[m
+Author: joancastillo <joan.castillo2507@gmail.com>
+Date:   Sun Sep 5 23:24:54 2021 -0400
+
+    social media icon
+    
+    en la parte de las redes sociales, sale el logo de github al lado del username. cambie el username de github a null
+
+[33mcommit f9e0f25f142d6b23829a2c20d5e4bd9255f1c4c5[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Sep 2 16:33:27 2021 -0400
+
+    Update README.md
+
+[33mcommit 276fa81cc1449531535de0a8a037b9c3bfd25a08[m
+Merge: aab39a6 d5e15e6
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Tue Aug 31 12:27:20 2021 -0400
+
+    Merge pull request #15 from ElviraQDP/patch-1
+    
+    text consistency revised
+
+[33mcommit d5e15e636d6a504b66f6e21407eafec4825296b0[m
+Merge: 984e488 aab39a6
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Tue Aug 31 12:27:03 2021 -0400
+
+    Merge branch 'master' into patch-1
+
+[33mcommit aab39a6c30ced7c6fa58f6729238997626561209[m
+Merge: 7043c57 98db34e
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Tue Aug 31 12:24:37 2021 -0400
+
+    Merge pull request #35 from JuanAntonaccio/patch-1
+    
+    Update README.es.md
+
+[33mcommit 98db34e19037e9ba39b7a91a3f682c750bc1d493[m
+Author: JuanAntonaccio <64330819+JuanAntonaccio@users.noreply.github.com>
+Date:   Mon Aug 30 21:47:57 2021 -0300
+
+    Update README.es.md
+    
+    Estoy sacando una comilla del link que daba error al conectarse
+
+[33mcommit 7043c573d932c23eaf6fbce07cb125f5c01361a9[m
+Merge: 157c4e6 304650d
+Author: Manuel Ortega Carcamo <mortegac@users.noreply.github.com>
+Date:   Wed Apr 21 14:30:37 2021 -0400
+
+    Merge pull request #29 from ElviraQDP/master
+    
+    README.es.md updated
+
+[33mcommit 304650d34c82df97db270049113b2ad4add9f192[m
+Author: Elvira Quiroz <elvira.quiroz.dp@gmail.com>
+Date:   Wed Apr 21 18:23:18 2021 +0000
+
+    README.es.md updated
+
+[33mcommit 157c4e604471c9d3ef1cf3e23a6b204d3085b5f1[m
+Merge: 9f0274c ff4e067
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Wed Apr 21 14:10:15 2021 -0400
+
+    Merge pull request #17 from vlmarq/patch-2
+    
+    Update README.md
+
+[33mcommit 9f0274cb7adcc37348e0fde25962f668d56d12d0[m
+Merge: ecd43e4 423cb95
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Wed Apr 21 13:55:34 2021 -0400
+
+    Merge pull request #28 from JimenaEB/patch-1
+    
+    Fix Instructions
+
+[33mcommit 423cb953aa0b98c174409e752c8e3be3e64d0fc3[m
+Author: Jimena Escobar Bermúdez <jime.ebermudez@gmail.com>
+Date:   Tue Apr 20 15:14:45 2021 +0200
+
+    Fix Instructions
+
+[33mcommit 984e488ece264a6b6f6c2bff75dfcb5343982c4c[m
+Author: Elvira Quiroz <elvira.quiroz.dp@gmail.com>
+Date:   Wed Apr 7 16:36:20 2021 +0000
+
+    README.es.md uodated
+
+[33mcommit 6eb87f2811ca1f4f349466fc59a6e2ba558fa75b[m
+Author: Elvira Quiroz <elvira.quiroz.dp@gmail.com>
+Date:   Wed Apr 7 16:26:28 2021 +0000
+
+    minor changes
+
+[33mcommit 39288f6d4446198ef8c3d748fa3d72eb70256254[m
+Author: Elvira Quiroz <elvira.quiroz.dp@gmail.com>
+Date:   Wed Apr 7 16:22:02 2021 +0000
+
+    README.es.md updated
+
+[33mcommit 394fc347b15a17eed5a73727d703968dcb7146aa[m
+Author: Elvira Quiroz <elvira.quiroz.dp@gmail.com>
+Date:   Wed Apr 7 16:21:19 2021 +0000
+
+    README.es.md updated, README as well
+
+[33mcommit 2adc9c31b11c01948b5405d6578b6c86badcf22b[m
+Merge: ecc18ae ecd43e4
+Author: Elvira Quiroz <elvira.quiroz.dp@gmail.com>
+Date:   Wed Apr 7 16:07:41 2021 +0000
+
+    Merge branch 'master' of https://github.com/breatheco-de/exercise-conditional-profile-card into patch-1
+
+[33mcommit ecd43e4b3dd6c7df6c9f580e999de24e12556856[m
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Mon Mar 29 12:58:46 2021 -0300
+
+    typo fixed
+
+[33mcommit e07d4f94212665e974269609b01ea16e20c0d4e1[m
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Mon Mar 29 12:58:07 2021 -0300
+
+    instructions layout fixed
+
+[33mcommit 2ca3aab288fe667811b5fe50f386beb5e971363f[m
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Thu Mar 25 19:41:48 2021 -0300
+
+    last instruction added
+
+[33mcommit 076e2ff553450d9e08e9b4266d0d06202537076a[m
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Thu Mar 25 19:40:42 2021 -0300
+
+    updating layout
+
+[33mcommit 1136c8a9ea154c081d40f2334b5e02920e815fb0[m
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Mon Mar 22 16:07:18 2021 -0300
+
+    typo fixed
+
+[33mcommit 43c45f9285ef21cedeb8df7436305d9bed27270b[m
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Mon Mar 22 16:03:20 2021 -0300
+
+    instructions updated
+
+[33mcommit 9f3868a36319d7e2f618af0b60e27052d2c2bdae[m
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Mon Mar 22 16:01:00 2021 -0300
+
+    Update README.md
+
+[33mcommit 4718fbea062768a1190d382d0c22da9bb6bf7f54[m
+Merge: b3ea337 b0c2656
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Mar 13 11:39:23 2021 -0500
+
+    Merge pull request #23 from jferragut/patch-1
+
+[33mcommit b0c2656710412e3db214c3b765419d7521907e31[m
+Author: Jonathan Ferragut <jonathan@alkemydev.com>
+Date:   Sat Mar 13 11:11:13 2021 -0500
+
+    fix issue with a dropdown
+
+[33mcommit ff4e067fbb461ccf7cef8d2fd86d02355ab857f2[m
+Author: Vanessa Lamarque <lamarque.van@gmail.com>
+Date:   Sat Nov 7 12:29:24 2020 -0500
+
+    Update README.md
+    
+    Changed "determins" to "determines".
+    Changed "shoud" to "should".
+
+[33mcommit b3ea337ebf31718f1825f9ba2c35c1d9201de468[m
+Merge: 2ed0a1c 2ffb22a
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Oct 6 12:04:10 2020 -0400
+
+    Merge pull request #16 from ElviraQDP/patch-2
+    
+    typo fixed
+
+[33mcommit 2ffb22a6466eaa24a1d8e0f0d0d7d9cb9b3098c2[m
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Mon Oct 5 13:54:15 2020 -0300
+
+    typo fixed
+
+[33mcommit ecc18ae462ed7f1b8f600e92fbc6b3fdae8e2c76[m
+Author: Elvira Quiroz <63673743+ElviraQDP@users.noreply.github.com>
+Date:   Mon Oct 5 13:51:17 2020 -030
