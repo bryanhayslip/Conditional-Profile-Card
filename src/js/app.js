@@ -47,7 +47,7 @@ function render(variables = {}) {
           <img src="${variables.avatarURL}" class="photo" />
           <h1>${name} ${lastname}</h1>
           <h2>${role}</h2>
-          <h3>${city}</h3>
+          <h2>${city}</h2>
           <h3>${country}</h3>
           <ul class="${variables.socialMediaPosition}">
             <li><a href="https://twitter.com/${twitter}"><i class="fab fa-twitter"></i></a></li>
